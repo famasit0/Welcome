@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-🧮 I'm **Famasito**, [@famasitweet](https://twitter.com/famasitweet), 📩 [reuillonlouis03@gmail.com](mailto:reuillonlouis03@gmail.com?subject=J'aimerais%20disctuert%20avec%20vous%20de%20%20...).
+🧮 I'm **Louis / Famasito**, [@famasitweet](https://twitter.com/famasitweet), 📩 [jagelouis@gmail.com](mailto:reuillonlouis03@gmail.com?subject=J'aimerais%20disctuert%20avec%20vous%20de%20%20...).
 
 I am in blockchain since 2021 and IT Student in Toulouse (BTS SIO).
 
 🤝 Very involved in the **Bitcoin** community as in the **Blockchain space**. 
 
 I attended to [👉](https://www.nftparis.xyz/) [NFT Paris](https://www.nftparis.xyz/) 
-<img src="./assets/Bitcoin_amsterdam.png" alt="Bitcoin Amsterdam" width="350"/>
-
+![Alt texte]([URL de l'image](https://cdn.prod.website-files.com/62be1419d59de553b9cfba4d/664086f2a17bea67a1bd40d5_lavillette.png"))
 
 🧰 I built some tools as [Telegram Converter Bot](https://github.com/GaloisField2718/SatoshiPriceBot), [Email saver for Bitcoin-dev Digest](https://github.com/GaloisField2718/Bitcoin-dev-digest) and few other you can find on my profile. 
 
