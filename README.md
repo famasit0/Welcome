@@ -9,7 +9,7 @@ I am in blockchain since 2021 and IT Student in Toulouse (BTS SIO).
 
 I attended to [👉](https://www.nftparis.xyz/) [NFT Paris](https://www.nftparis.xyz/) 
 ![Photo de NFT Paris]
-<img src="./nft-paris.md alt="NFT Paris" width="350"/>
+<img src="./nft-paris.webp alt="NFT Paris" width="350"/>
 
 🧰 I built some tools as [Telegram Converter Bot](https://github.com/GaloisField2718/SatoshiPriceBot), [Email saver for Bitcoin-dev Digest](https://github.com/GaloisField2718/Bitcoin-dev-digest) and few other you can find on my profile. 
 
